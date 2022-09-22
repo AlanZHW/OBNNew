@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\gpositionsystem.o
+./debug\gserialport.o
+./debug\gpspublic.o
+./debug\datamanager.o
+./debug\deckunit.o
+./debug\positionchart.o
+./debug\postioncontrols.o
+./debug\axis.o
+./debug\systemdisplay.o
+./debug\moc_gpositionsystem.o
+./debug\moc_gserialport.o
+./debug\moc_deckunit.o
+./debug\moc_postioncontrols.o
+./debug\moc_systemdisplay.o
+);

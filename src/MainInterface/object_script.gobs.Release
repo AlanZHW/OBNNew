@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\mainwinpublic.o
+./release\mainwinunit.o
+./release\exportspsfilesdlg.o
+./release\logindlg.o
+./release\moc_mainwindow.o
+./release\moc_mainwinunit.o
+./release\moc_exportspsfilesdlg.o
+./release\moc_logindlg.o
+);

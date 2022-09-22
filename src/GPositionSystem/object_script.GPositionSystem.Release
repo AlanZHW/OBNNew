@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\gpositionsystem.o
+./release\gserialport.o
+./release\gpspublic.o
+./release\datamanager.o
+./release\deckunit.o
+./release\positionchart.o
+./release\postioncontrols.o
+./release\axis.o
+./release\systemdisplay.o
+./release\moc_gpositionsystem.o
+./release\moc_gserialport.o
+./release\moc_deckunit.o
+./release\moc_postioncontrols.o
+./release\moc_systemdisplay.o
+);
